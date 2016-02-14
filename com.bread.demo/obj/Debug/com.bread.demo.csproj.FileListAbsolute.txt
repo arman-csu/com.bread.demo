@@ -1,0 +1,6 @@
+c:\users\abir\documents\visual studio 2013\Projects\com.bread.demo\com.bread.demo\bin\com.bread.demo.dll.config
+c:\users\abir\documents\visual studio 2013\Projects\com.bread.demo\com.bread.demo\bin\com.bread.demo.dll
+c:\users\abir\documents\visual studio 2013\Projects\com.bread.demo\com.bread.demo\bin\com.bread.demo.pdb
+c:\users\abir\documents\visual studio 2013\Projects\com.bread.demo\com.bread.demo\obj\Debug\com.bread.demo.csprojResolveAssemblyReference.cache
+c:\users\abir\documents\visual studio 2013\Projects\com.bread.demo\com.bread.demo\obj\Debug\com.bread.demo.dll
+c:\users\abir\documents\visual studio 2013\Projects\com.bread.demo\com.bread.demo\obj\Debug\com.bread.demo.pdb
